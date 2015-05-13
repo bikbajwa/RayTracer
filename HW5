@@ -1,0 +1,1 @@
+java -cp "./lib/*:./src" HW5 $1 $2
